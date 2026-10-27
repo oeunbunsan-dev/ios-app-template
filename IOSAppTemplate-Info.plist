@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Battambang-Regular.ttf</string>
+		<string>Battambang-Bold.ttf</string>
+		<string>Bayon-Regular.ttf</string>
+		<string>Bokor-Regular.ttf</string>
+		<string>Dangrek-Regular.ttf</string>
+		<string>Fasthand-Regular.ttf</string>
+		<string>Hanuman[wght].ttf</string>
+		<string>KantumruyPro[wght].ttf</string>
+		<string>Koulen-Regular.ttf</string>
+		<string>Moul-Regular.ttf</string>
+		<string>Siemreap.ttf</string>
+		<string>Inter[opsz,wght].ttf</string>
+		<string>Roboto[wdth,wght].ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>Poppins-Medium.ttf</string>
+		<string>Poppins-SemiBold.ttf</string>
+		<string>Poppins-Bold.ttf</string>
+		<string>Montserrat[wght].ttf</string>
+		<string>OpenSans[wdth,wght].ttf</string>
+		<string>Lato-Regular.ttf</string>
+		<string>Lato-Bold.ttf</string>
+		<string>Raleway[wght].ttf</string>
+		<string>Nunito[wght].ttf</string>
+		<string>Oswald[wght].ttf</string>
+		<string>PlayfairDisplay[wght].ttf</string>
+	</array>
+</dict>
+</plist>
